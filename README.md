@@ -24,6 +24,6 @@
 
 <br><br><div align="center">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Krupeshgithub?theme=unicorn&font=Happy%20Monkey&ext=activity)](https://leetcode.com/Krupeshgithub)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Krupeshgithub?theme=dark&font=Happy%20Monkey&ext=activity)](https://leetcode.com/Krupeshgithub)
 
 </div>
