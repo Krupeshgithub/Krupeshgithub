@@ -4,26 +4,17 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/krupesh-patel-240886239)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krupeshpatel01451@gmail.com)](mailto:krupeshpatel01451@gmail.com)
 
-### Hi there, I'm krupesh 👋
+## Hi there, I'm krupesh 👋
 
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 
-<br>
-<div>
-<li>
- <b>Name:</b> Krupesh</li>
-<li>
-<b>Loves:</b> games, songs
-</li>
-<li>
-<b>Gender:</b> He/His/Male 
-</li>
-<li>
-<b>Hobbys:</b> Coding, Investing
-</li>
-<br><br><br>
-</div>
-<div>
+<br><br>
+
+- **Name**: ***Krupesh***
+- **Loves**: ***Games, Songs***
+- **Gender**: ***He, His, Male***
+- **Hobbys**: ***Coding, Investing***
+
 <br><br><br>
 
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
