@@ -13,7 +13,7 @@
 - **Name**: ***Krupesh***
 - **Loves**: ***Games, Songs***
 - **Gender**: ***He, His, Male***
-- **Hobbys**: ***Coding***
+- **Hobby**: ***Coding***
 
 <br><br><br>
 
