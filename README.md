@@ -15,12 +15,4 @@
 - **Gender**: ***He, His, Male***
 - **Hobby**: ***Coding***
 
-<br><br><br>
-
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-
-<br><br><div align="center">
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Krupeshgithub?theme=dark&font=Happy%20Monkey&ext=activity)](https://leetcode.com/Krupeshgithub)
-
-</div>
+<br><br>
