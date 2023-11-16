@@ -1,3 +1,8 @@
+# Standard Readme
+
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=krupeshgithub)
@@ -16,3 +21,12 @@
 - **Hobby**: ***Coding***
 
 <br><br>
+<br>
+
+<h2 align='center'>GitHub Stats 📈</h2>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krupesh1958&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<div>
