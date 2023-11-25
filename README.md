@@ -22,11 +22,3 @@
 
 <br><br>
 <br>
-
-<h2 align='center'>GitHub Stats 📈</h2>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krupesh1958&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<div>
